@@ -21,7 +21,7 @@ class AlaaSayedAhmad:
     name       = "Alaa Sayed Ahmad"
     role       = ["Software Engineer", "Security Researcher", "Full Stack Developer"]
     location   = "Palestine 🇵🇸"
-    
+
     currently  = {
         "learning"  : "Full Stack Web Development",
         "building"  : "Open-source tools for Windows automation",
@@ -140,6 +140,16 @@ class AlaaSayedAhmad:
 ╚══════════════════════════════════════════╝
 ```
 
-![Snake animation](https://github.com/AlaaSayedAhmad/AlaaSayedAhmad/blob/output/github-contribution-grid-snake-dark.svg)
-
 </div>
+
+---
+
+<!-- Snake Animation -->
+<picture>
+  <source media="(prefers-color-scheme: dark)"
+          srcset="./github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)"
+          srcset="./github-contribution-grid-snake.svg" />
+  <img alt="Snake animation"
+       src="./github-contribution-grid-snake-dark.svg" />
+</picture>
