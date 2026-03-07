@@ -45,7 +45,6 @@ class Engineer:
         "Windows Internals Enthusiast"
     ])
 
-    # ── What I'm working on right now ──────────────────────
     current_focus: Dict = field(default_factory=lambda: {
         "building"  : "Office Uninstaller Ultra Pro (PS v5.1)",
         "learning"  : "Full Stack — React + Node.js + REST APIs",
@@ -54,7 +53,6 @@ class Engineer:
         "next"      : "CEH / OSCP Certification"
     })
 
-    # ── Core values ────────────────────────────────────────
     principles: List[str] = field(default_factory=lambda: [
         "✦ Build tools that solve real problems",
         "✦ Ship clean, readable, documented code",
@@ -117,7 +115,6 @@ print(me.greet())
 **── DevOps & Tools ──**
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
@@ -129,13 +126,6 @@ print(me.greet())
 ![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
 ![Metasploit](https://img.shields.io/badge/Metasploit-2596CD?style=for-the-badge&logo=metasploit&logoColor=white)
 ![OWASP](https://img.shields.io/badge/OWASP-000000?style=for-the-badge&logo=owasp&logoColor=white)
-
-**── Operating Systems ──**
-
-![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
-![Kali](https://img.shields.io/badge/Kali-268BEE?style=for-the-badge&logo=kali-linux&logoColor=white)
 
 </div>
 
@@ -149,12 +139,12 @@ print(me.greet())
 
 | Domain | Core Skills | Proficiency |
 |:------:|:-----------:|:-----------:|
-| 🔐 Cybersecurity | Ethical Hacking · OSINT · CTF · Recon · Web App Sec | `████████░░` Advanced |
-| ⚙️ Automation | PowerShell · Bash · Windows Internals · Scripting | `█████████░` Expert |
+| 🔐 Cybersecurity | Ethical Hacking · OSINT · CTF · Web App Sec | `████████░░` Advanced |
+| ⚙️ Automation | PowerShell · Bash · Windows Internals | `█████████░` Expert |
 | 🌐 Web Dev | HTML · CSS · JS · React · Node.js | `██████░░░░` Intermediate |
 | 🐍 Python | Scripting · Automation · Tool Building | `███████░░░` Advanced |
 | 🔧 DevOps | Git · GitHub Actions · CI/CD · Docker | `██████░░░░` Intermediate |
-| 🛡️ Windows | Registry · Services · Process · WinAPI | `█████████░` Expert |
+| 🛡️ Windows | Registry · Services · WinAPI · Internals | `█████████░` Expert |
 
 </div>
 
@@ -181,13 +171,32 @@ print(me.greet())
 
 </div>
 
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
 ---
 
-## 🏆 Achievements
+## 🏆 Achievements & Trophies
 
 <div align="center">
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=AlaaSayedAhmad&theme=darkhub&no-frame=true&row=1&column=7&margin-w=8)](https://github.com/ryo-ma/github-profile-trophy)
+<!-- Trophy — working fork (الأصلي معطل) -->
+[![trophy](https://github-profile-trophy.screw-hand.vercel.app/?username=AlaaSayedAhmad&theme=darkhub&no-frame=true&row=1&column=7&margin-w=8&title=Stars,Followers,Commits,Repositories,PullRequest,Issues,Reviews)](https://github.com/AlaaSayedAhmad)
+
+</div>
+
+<br/>
+
+<!-- GitHub Achievements الرسمية — لا تعتمد على أي خدمة خارجية -->
+<div align="center">
+
+| 🏅 Achievement | 📋 Description | 🔓 How to Unlock |
+|:--------------:|:--------------:|:----------------:|
+| ⭐ Starstruck | Repo gets 16+ stars | Push quality projects |
+| 🦈 Pull Shark | Merged PRs × 2 | Contribute to open source |
+| 🎯 YOLO | Merge PR without review | Ship fast |
+| ⚡ Quickdraw | Close issue within 5 min | Stay responsive |
+| 🌌 Galaxy Brain | Accepted Discussion answer | Help the community |
+| 👥 Pair Extraordinaire | Co-authored merged PR | Collaborate |
 
 </div>
 
@@ -197,28 +206,40 @@ print(me.greet())
 
 ## 🚀 Featured Projects
 
+<!-- ✅ صورة المشروع تُولَّد تلقائياً من GitHub API — لا تحتاج صورة يدوية -->
 <div align="center">
 
-[![Office Uninstaller Pro](https://github-readme-stats.vercel.app/api/pin/?username=AlaaSayedAhmad&repo=Office-Uninstaller-Pro&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d9ff&text_color=c9d1d9&icon_color=00d9ff)](https://github.com/AlaaSayedAhmad/Office-Uninstaller-Pro)
+[![Office Uninstaller Pro](https://github-readme-stats.vercel.app/api/pin/?username=AlaaSayedAhmad&repo=Office-Uninstaller-Pro&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d9ff&text_color=c9d1d9&icon_color=00d9ff&description_lines_count=3)](https://github.com/AlaaSayedAhmad/Office-Uninstaller-Pro)
 
 </div>
 
+<!-- Social Preview Card — يظهر عند مشاركة الرابط -->
 <div align="center">
 
 ```
-🧹 Office Uninstaller Ultra Pro v5.1
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-  The most complete Microsoft Office removal tool
-  ever built in PowerShell — beats SaRA & OffScrub
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-  ✅ WhatIf Simulation   ✅ Rollback Engine
-  ✅ HTML Dark Report    ✅ Remote via WinRM
-  ✅ Parallel PS7+       ✅ All M365 Products
-  ✅ MSI + C2R + Store   ✅ Windows Event Log
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+╔══════════════════════════════════════════════════════════╗
+║   🧹 Office Uninstaller Ultra Pro v5.1                   ║
+║   ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━   ║
+║   The most complete Microsoft Office removal tool        ║
+║   ever built in PowerShell — beats SaRA & OffScrub      ║
+║   ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━   ║
+║   ✅ WhatIf Mode    ✅ Rollback Engine                   ║
+║   ✅ HTML Report    ✅ Remote Execution                  ║
+║   ✅ Parallel PS7+  ✅ All M365 Products                 ║
+║   ✅ MSI+C2R+Store  ✅ Windows Event Log                 ║
+║   ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━   ║
+║   ⭐ Star if useful  |  🔀 PRs welcome                   ║
+╚══════════════════════════════════════════════════════════╝
 ```
 
+[![PowerShell](https://img.shields.io/badge/PowerShell-5.1%2B-5391FE?style=flat-square&logo=powershell&logoColor=white)](https://github.com/AlaaSayedAhmad/Office-Uninstaller-Pro)
+[![Version](https://img.shields.io/badge/Version-5.1-brightgreen?style=flat-square)](https://github.com/AlaaSayedAhmad/Office-Uninstaller-Pro)
+[![License](https://img.shields.io/badge/License-MIT-blue?style=flat-square)](https://github.com/AlaaSayedAhmad/Office-Uninstaller-Pro/blob/main/LICENSE)
+[![Windows](https://img.shields.io/badge/Platform-Windows-0078D6?style=flat-square&logo=windows&logoColor=white)](https://github.com/AlaaSayedAhmad/Office-Uninstaller-Pro)
+
 </div>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 ---
 
@@ -231,26 +252,22 @@ print(me.greet())
 <td align="center" width="50%">
 
 ```
-╔═══════════════════════════════════╗
-║                                   ║
-║  "First, solve the problem.       ║
-║   Then, write the code."          ║
-║                   — John Johnson  ║
-║                                   ║
-╚═══════════════════════════════════╝
+╔══════════════════════════════════════╗
+║  "First, solve the problem.          ║
+║   Then, write the code."             ║
+║                    — John Johnson    ║
+╚══════════════════════════════════════╝
 ```
 
 </td>
 <td align="center" width="50%">
 
 ```
-╔═══════════════════════════════════╗
-║                                   ║
-║  "Security is not a product,      ║
-║   but a process."                 ║
-║                 — Bruce Schneier  ║
-║                                   ║
-╚═══════════════════════════════════╝
+╔══════════════════════════════════════╗
+║  "Security is not a product,         ║
+║   but a process."                    ║
+║                  — Bruce Schneier    ║
+╚══════════════════════════════════════╝
 ```
 
 </td>
@@ -259,28 +276,22 @@ print(me.greet())
 <td align="center" width="50%">
 
 ```
-╔═══════════════════════════════════╗
-║                                   ║
-║  "Any fool can write code that    ║
-║   a computer can understand.      ║
-║   Good programmers write code     ║
-║   that humans can understand."    ║
-║                  — Martin Fowler  ║
-║                                   ║
-╚═══════════════════════════════════╝
+╔══════════════════════════════════════╗
+║  "Good programmers write code        ║
+║   that humans can understand."       ║
+║                   — Martin Fowler    ║
+╚══════════════════════════════════════╝
 ```
 
 </td>
 <td align="center" width="50%">
 
 ```
-╔═══════════════════════════════════╗
-║                                   ║
-║  "The best way to predict         ║
-║   the future is to invent it."    ║
-║                   — Alan Kay      ║
-║                                   ║
-╚═══════════════════════════════════╝
+╔══════════════════════════════════════╗
+║  "The best way to predict            ║
+║   the future is to invent it."       ║
+║                       — Alan Kay     ║
+╚══════════════════════════════════════╝
 ```
 
 </td>
@@ -314,10 +325,10 @@ print(me.greet())
 
 <br/>
 
-![Visitor Badge](https://img.shields.io/badge/Thanks%20for%20visiting!-⭐%20Star%20my%20repos%20if%20you%20find%20them%20useful-00d9ff?style=for-the-badge)
+![Thanks](https://img.shields.io/badge/Thanks%20for%20visiting!-⭐%20Star%20my%20repos%20if%20useful-00d9ff?style=for-the-badge)
 
 > 💬 *Open to collaborations, security research, and open source projects*
-> 
+>
 > ⭐ *If my work helped you — a star means the world to me!*
 
 </div>
