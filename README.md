@@ -220,8 +220,19 @@ print(me.greet())
 
 </div>
 
+
+## ⏱️ This Week I Coded
+
+<div align="center">
+
+[![WakaTime](https://wakatime.com/badge/user/AlaaSayedAhmad.svg?style=for-the-badge&labelColor=0d1117&color=00d9ff)](https://wakatime.com/@AlaaSayedAhmad)
+
+</div>
+
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
+
+
 
 <!-- ▲▲▲ نهاية القسم ▲▲▲ -->
 
