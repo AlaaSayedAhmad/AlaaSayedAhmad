@@ -46,10 +46,10 @@ class Engineer:
 
     os_setup: Dict = field(default_factory=lambda: {
         "daily_driver" : "Fedora Linux 🎩",
-        "work"         : "Windows 11 ⚡",
+        "work"         : "Windows 11 And Fedora Linux ⚡",
         "hacking"      : "Kali Linux 🐉",
         "editor"       : "VS Code 💙",
-        "terminal"     : "Fish Shell 🐟"
+        "terminal"     : "ZSH Shell 🐟"
     })
 
     principles: List[str] = field(default_factory=lambda: [
