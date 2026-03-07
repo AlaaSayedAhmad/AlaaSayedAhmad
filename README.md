@@ -136,12 +136,12 @@ print(me.greet())
 | Component | Choice |
 |:---------:|:------:|
 | 🎩 Daily Driver | Fedora Linux (latest) |
-| ⚡ Work OS | Windows 11 Pro |
+| ⚡ Work OS | Fedora Linux |Windows 11 Pro|
 | 🐉 Hacking OS | Kali Linux |
 | 💻 Editor | VS Code |
-| 🐟 Shell | Fish Shell |
-| 🖥️ Terminal | Alacritty |
-| 🌐 Browser | Firefox |
+| 🐟 Shell | ZSH Shell |
+| 🖥️ Terminal | Kitty |
+| 🌐 Browser | Firefox |Brave
 
 </div>
 
