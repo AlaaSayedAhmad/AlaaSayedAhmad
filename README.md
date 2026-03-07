@@ -2,7 +2,7 @@
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Alaa%20Sayed%20Ahmad&fontSize=48&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Software%20Engineer%20%7C%20Security%20Researcher%20%7C%20Open%20Source%20Builder&descAlignY=58&descSize=18"/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=800&lines=🔐+Security+Researcher+%26+Ethical+Hacker;⚙️+PowerShell+%26+Windows+Automation+Expert;🌐+Full+Stack+Developer+in+Progress;🛠️+I+Build+Tools+That+Actually+Matter;🚀+Open+Source+Contributor+from+Palestine+🇵🇸;🎩+Fedora+Linux+Daily+Driver)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=800&lines=🐍+Python+Dev+%7C+⚙️+PowerShell+Engineer+%7C+🐚+Bash+Scripter;🔐+Security+Researcher+%26+Ethical+Hacker;🌐+Full+Stack+Developer+in+Progress;🛠️+I+Build+Tools+That+Actually+Matter;🚀+Open+Source+Contributor+from+Palestine+🇵🇸;🎩+Fedora+Linux+Daily+Driver)](https://git.io/typing-svg)
 
 <br/>
 
@@ -18,57 +18,37 @@
 
 ## 🧬 About Me
 
+```bash
+┌──(AlaaSayedAhmad㉿github)-[~]
+└─$ whoami
+
+  Name     : Alaa Sayed Ahmad
+  Alias    : CrazyCoder
+  Location : Nablus, Palestine 🇵🇸
+  Roles    : Python Dev -  Bash Scripter -  PowerShell Engineer
+             Security Researcher -  Full Stack (in progress)
+```
+
+```powershell
+PS> Get-CurrentFocus
+
+Building   : Office Uninstaller Ultra Pro v5.1 🧹
+Learning   : Full Stack — React + Node.js 🌐
+Exploring  : Red Teaming & Penetration Testing 🔐
+Reading    : Clean Code — Robert C. Martin 📖
+Next       : CEH / OSCP 🎯
+Setup      : Fedora 🎩 · Windows 11 ⚡ · Kali 🐉 · VS Code 💙 · ZSH 🐟
+```
+
 ```python
-#!/usr/bin/env python3
-from dataclasses import dataclass, field
-from typing import List, Dict
+principles = [
+    "✦ Build tools that solve real problems",
+    "✦ Ship clean, readable, documented code",
+    "✦ Break things ethically — fix them permanently",
+    "✦ Every bug is a lesson. Every fix is a milestone.",
+]
 
-@dataclass
-class Engineer:
-    name      : str = "Alaa Sayed Ahmad"
-    alias     : str = "CrazyCoder"
-    location  : str = "Palestine 🇵🇸 — Nablus"
-    roles     : List[str] = field(default_factory=lambda: [
-        "Software Engineer",
-        "Security Researcher",
-        "Full Stack Developer (in progress)",
-        "Open Source Builder",
-        "Windows Internals Enthusiast"
-    ])
-
-    current_focus: Dict = field(default_factory=lambda: {
-        "building"  : "Office Uninstaller Ultra Pro (PS v5.1)",
-        "learning"  : "Full Stack — React + Node.js + REST APIs",
-        "exploring" : "Offensive Security & Red Teaming",
-        "reading"   : "Clean Code — Robert C. Martin",
-        "next_cert" : "CEH / OSCP"
-    })
-
-    os_setup: Dict = field(default_factory=lambda: {
-        "daily_driver" : "Fedora Linux 🎩",
-        "work"         : "Windows 11 And Fedora Linux ⚡",
-        "hacking"      : "Kali Linux 🐉",
-        "editor"       : "VS Code 💙",
-        "terminal"     : "ZSH Shell 🐟"
-    })
-
-    principles: List[str] = field(default_factory=lambda: [
-        "✦ Build tools that solve real problems",
-        "✦ Ship clean, readable, documented code",
-        "✦ Break things ethically — fix them permanently",
-        "✦ If it's worth building, it's worth open-sourcing",
-        "✦ Every bug is a lesson. Every fix is a milestone."
-    ])
-
-    def greet(self) -> str:
-        return (
-            f"👋 Hey! I'm {self.name} from {self.location}\n"
-            f"🎩 Fedora daily driver | ⚡ Windows power user\n"
-            f"🚀 Always building. Always learning. Never stopping."
-        )
-
-me = Engineer()
-print(me.greet())
+motto = "🚀 Always building. Always learning. Never stopping."
 ```
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
@@ -83,8 +63,8 @@ print(me.greet())
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Bash](https://img.shields.io/badge/Bash-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 
 **── Frontend ──**
@@ -153,12 +133,12 @@ print(me.greet())
 
 | Domain | Core Skills | Proficiency |
 |:------:|:-----------:|:-----------:|
+| 🐍 Python | Scripting · Automation · Tool Building | `█████████░` Expert |
+| 🐚 Bash | Shell Scripting · Linux · Automation | `█████████░` Expert |
+| ⚙️ PowerShell | Windows Internals · Automation · WinAPI | `█████████░` Expert |
 | 🔐 Cybersecurity | Ethical Hacking · OSINT · CTF · Web App Sec | `████████░░` Advanced |
-| ⚙️ Automation | PowerShell · Bash · Windows Internals | `█████████░` Expert |
 | 🌐 Web Dev | HTML · CSS · JS · React · Node.js | `██████░░░░` Intermediate |
-| 🐍 Python | Scripting · Automation · Tool Building | `███████░░░` Advanced |
 | 🔧 DevOps | Git · GitHub Actions · CI/CD · Docker | `██████░░░░` Intermediate |
-| 🎩 Linux | Fedora · ZSH · Shell Scripting · DNF | `████████░░` Advanced |
 
 </div>
 
