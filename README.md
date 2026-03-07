@@ -189,32 +189,6 @@ print(me.greet())
 
 ---
 
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=AlaaSayedAhmad&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d9ff&icon_color=00d9ff&text_color=c9d1d9&count_private=true&include_all_commits=true"/>
-<img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=AlaaSayedAhmad&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d9ff&text_color=c9d1d9&langs_count=8&card_width=320"/>
-
-</div>
-
-<div align="center">
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=AlaaSayedAhmad&theme=tokyonight&hide_border=true&background=0d1117&ring=00d9ff&fire=ff6b6b&currStreakLabel=00d9ff&sideLabels=00d9ff&dates=6c7086)](https://git.io/streak-stats)
-
-</div>
-
-<div align="center">
-
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=AlaaSayedAhmad&theme=tokyo-night&bg_color=0d1117&color=00d9ff&line=00d9ff&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-</div>
-
-<!-- ▼▼▼ أضفه هنا مباشرة ▼▼▼ -->
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-
-
-
 ## ⏱️ This Week I Coded
 
 <div align="center">
@@ -226,13 +200,10 @@ print(me.greet())
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
 
-
-
-<!-- ▲▲▲ نهاية القسم ▲▲▲ -->
-
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 ---
+
 ## 🏆 Achievements & Trophies
 
 <div align="center">
@@ -366,9 +337,7 @@ print(me.greet())
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
----
-
-<!-- ✅ Snake Animation — من branch output الحقيقي بعد نجاح الـ workflow -->
+<!-- Snake Animation -->
 <div align="center">
 
 <picture>
@@ -389,5 +358,4 @@ print(me.greet())
 
 </div>
 
-<!-- Footer Wave -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer"/>
