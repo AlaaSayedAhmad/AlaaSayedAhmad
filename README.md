@@ -1,18 +1,14 @@
 <div align="center">
 
-<!-- Animated Header -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Alaa%20Sayed%20Ahmad&fontSize=48&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Software%20Engineer%20%7C%20Security%20Researcher%20%7C%20Open%20Source%20Builder&descAlignY=58&descSize=18"/>
 
-<!-- Typing Animation -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=800&lines=🔐+Security+Researcher+%26+Ethical+Hacker;⚙️+PowerShell+%26+Windows+Automation+Expert;🌐+Full+Stack+Developer+in+Progress;🛠️+I+Build+Tools+That+Actually+Matter;🚀+Open+Source+Contributor+from+Palestine+🇵🇸;💡+Clean+Code+%7C+Real+Problems+%7C+Real+Solutions)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=800&lines=🔐+Security+Researcher+%26+Ethical+Hacker;⚙️+PowerShell+%26+Windows+Automation+Expert;🌐+Full+Stack+Developer+in+Progress;🛠️+I+Build+Tools+That+Actually+Matter;🚀+Open+Source+Contributor+from+Palestine+🇵🇸;🎩+Fedora+Linux+Daily+Driver)](https://git.io/typing-svg)
 
 <br/>
 
-<!-- Dynamic Badges -->
 ![Profile Views](https://komarev.com/ghpvc/?username=AlaaSayedAhmad&color=00d9ff&style=for-the-badge&label=PROFILE+VIEWS)
 [![GitHub followers](https://img.shields.io/github/followers/AlaaSayedAhmad?style=for-the-badge&color=00d9ff&labelColor=0d1117&label=FOLLOWERS)](https://github.com/AlaaSayedAhmad?tab=followers)
 ![GitHub Stars](https://img.shields.io/github/stars/AlaaSayedAhmad?style=for-the-badge&color=ffd700&labelColor=0d1117&label=TOTAL+STARS)
-![Repos](https://img.shields.io/badge/dynamic/json?style=for-the-badge&labelColor=0d1117&color=00d9ff&label=PUBLIC+REPOS&query=public_repos&url=https://api.github.com/users/AlaaSayedAhmad)
 
 </div>
 
@@ -24,11 +20,6 @@
 
 ```python
 #!/usr/bin/env python3
-# =========================================================
-# Developer Profile — Alaa Sayed Ahmad
-# Version: 5.1 | Updated: 2026
-# =========================================================
-
 from dataclasses import dataclass, field
 from typing import List, Dict
 
@@ -50,7 +41,15 @@ class Engineer:
         "learning"  : "Full Stack — React + Node.js + REST APIs",
         "exploring" : "Offensive Security & Red Teaming",
         "reading"   : "Clean Code — Robert C. Martin",
-        "next"      : "CEH / OSCP Certification"
+        "next_cert" : "CEH / OSCP"
+    })
+
+    os_setup: Dict = field(default_factory=lambda: {
+        "daily_driver" : "Fedora Linux 🎩",
+        "work"         : "Windows 11 ⚡",
+        "hacking"      : "Kali Linux 🐉",
+        "editor"       : "VS Code 💙",
+        "terminal"     : "Fish Shell 🐟"
     })
 
     principles: List[str] = field(default_factory=lambda: [
@@ -61,25 +60,15 @@ class Engineer:
         "✦ Every bug is a lesson. Every fix is a milestone."
     ])
 
-    available_for: List[str] = field(default_factory=lambda: [
-        "🤝 Open Source Collaboration",
-        "🔐 Security Research & CTF Teams",
-        "💼 Freelance Automation Projects",
-        "📚 Knowledge Sharing & Mentoring"
-    ])
-
     def greet(self) -> str:
         return (
             f"👋 Hey! I'm {self.name} from {self.location}\n"
-            f"⚡ I engineer solutions and break things ethically.\n"
+            f"🎩 Fedora daily driver | ⚡ Windows power user\n"
             f"🚀 Always building. Always learning. Never stopping."
         )
 
 me = Engineer()
 print(me.greet())
-# → 👋 Hey! I'm Alaa Sayed Ahmad from Palestine 🇵🇸 — Nablus
-# → ⚡ I engineer solutions and break things ethically.
-# → 🚀 Always building. Always learning. Never stopping.
 ```
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
@@ -127,9 +116,34 @@ print(me.greet())
 ![Metasploit](https://img.shields.io/badge/Metasploit-2596CD?style=for-the-badge&logo=metasploit&logoColor=white)
 ![OWASP](https://img.shields.io/badge/OWASP-000000?style=for-the-badge&logo=owasp&logoColor=white)
 
+**── Operating Systems ──**
+
+![Fedora](https://img.shields.io/badge/Fedora-51A2DA?style=for-the-badge&logo=fedora&logoColor=white)
+![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
+![Kali](https://img.shields.io/badge/Kali-268BEE?style=for-the-badge&logo=kali-linux&logoColor=white)
+![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
+
 </div>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+---
+
+## 🖥️ My Setup
+
+<div align="center">
+
+| Component | Choice |
+|:---------:|:------:|
+| 🎩 Daily Driver | Fedora Linux (latest) |
+| ⚡ Work OS | Windows 11 Pro |
+| 🐉 Hacking OS | Kali Linux |
+| 💻 Editor | VS Code |
+| 🐟 Shell | Fish Shell |
+| 🖥️ Terminal | Alacritty |
+| 🌐 Browser | Firefox |
+
+</div>
 
 ---
 
@@ -144,7 +158,7 @@ print(me.greet())
 | 🌐 Web Dev | HTML · CSS · JS · React · Node.js | `██████░░░░` Intermediate |
 | 🐍 Python | Scripting · Automation · Tool Building | `███████░░░` Advanced |
 | 🔧 DevOps | Git · GitHub Actions · CI/CD · Docker | `██████░░░░` Intermediate |
-| 🛡️ Windows | Registry · Services · WinAPI · Internals | `█████████░` Expert |
+| 🎩 Linux | Fedora · Bash · Shell Scripting · DNF | `████████░░` Advanced |
 
 </div>
 
@@ -154,20 +168,25 @@ print(me.greet())
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=AlaaSayedAhmad&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d9ff&icon_color=00d9ff&text_color=c9d1d9&count_private=true&include_all_commits=true&rank_icon=github"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlaaSayedAhmad&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d9ff&text_color=c9d1d9&langs_count=8&card_width=320"/>
+<!-- ✅ Stats Card — via working alternative instance -->
+<img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=AlaaSayedAhmad&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d9ff&icon_color=00d9ff&text_color=c9d1d9&count_private=true&include_all_commits=true"/>
+
+<!-- ✅ Top Languages — via working alternative instance -->
+<img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=AlaaSayedAhmad&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d9ff&text_color=c9d1d9&langs_count=8&card_width=320"/>
 
 </div>
 
 <div align="center">
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=AlaaSayedAhmad&theme=tokyonight&hide_border=true&background=0d1117&ring=00d9ff&fire=ff6b6b&currStreakLabel=00d9ff&sideLabels=00d9ff&dates=6c7086&stroke=00d9ff)](https://git.io/streak-stats)
+<!-- ✅ Streak Stats — خدمة منفصلة تعمل بشكل مستقل -->
+[![GitHub Streak](https://streak-stats.demolab.com?user=AlaaSayedAhmad&theme=tokyonight&hide_border=true&background=0d1117&ring=00d9ff&fire=ff6b6b&currStreakLabel=00d9ff&sideLabels=00d9ff&dates=6c7086)](https://git.io/streak-stats)
 
 </div>
 
 <div align="center">
 
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=AlaaSayedAhmad&theme=tokyo-night&bg_color=0d1117&color=00d9ff&line=00d9ff&point=ffffff&area=true&area_color=00d9ff&hide_border=true&radius=8)](https://github.com/ashutosh00710/github-readme-activity-graph)
+<!-- ✅ Activity Graph — خدمة منفصلة تعمل -->
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=AlaaSayedAhmad&theme=tokyo-night&bg_color=0d1117&color=00d9ff&line=00d9ff&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 </div>
 
@@ -179,74 +198,53 @@ print(me.greet())
 
 <div align="center">
 
-<!-- Trophy — working fork (الأصلي معطل) -->
-[![trophy](https://github-profile-trophy.screw-hand.vercel.app/?username=AlaaSayedAhmad&theme=darkhub&no-frame=true&row=1&column=7&margin-w=8&title=Stars,Followers,Commits,Repositories,PullRequest,Issues,Reviews)](https://github.com/AlaaSayedAhmad)
+<!-- ✅ Trophy — working fork بدلاً من الأصلي المعطل -->
+[![trophy](https://github-profile-trophy.screw-hand.vercel.app/?username=AlaaSayedAhmad&theme=darkhub&no-frame=true&row=1&column=7&margin-w=8&title=Stars,Followers,Commits,Repositories,PullRequest,Issues)](https://github.com/AlaaSayedAhmad)
 
 </div>
 
-<br/>
-
-<!-- GitHub Achievements الرسمية — لا تعتمد على أي خدمة خارجية -->
 <div align="center">
 
-| 🏅 Achievement | 📋 Description | 🔓 How to Unlock |
-|:--------------:|:--------------:|:----------------:|
-| ⭐ Starstruck | Repo gets 16+ stars | Push quality projects |
-| 🦈 Pull Shark | Merged PRs × 2 | Contribute to open source |
-| 🎯 YOLO | Merge PR without review | Ship fast |
-| ⚡ Quickdraw | Close issue within 5 min | Stay responsive |
-| 🌌 Galaxy Brain | Accepted Discussion answer | Help the community |
-| 👥 Pair Extraordinaire | Co-authored merged PR | Collaborate |
+| 🏅 Achievement | 📋 Description | 🔓 Status |
+|:--------------:|:--------------:|:---------:|
+| ⭐ Starstruck | Repo gets 16+ stars | 🔜 In Progress |
+| 🦈 Pull Shark | Open PRs that get merged | 🔜 In Progress |
+| 🎯 YOLO | Merge PR without review | 🔜 In Progress |
+| ⚡ Quickdraw | Close issue within 5 min | 🔜 In Progress |
+| 🌌 Galaxy Brain | Accepted Discussion answer | 🔜 In Progress |
 
 </div>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 ---
 
 ## 🚀 Featured Projects
 
-<!-- ✅ صورة المشروع تُولَّد تلقائياً من GitHub API — لا تحتاج صورة يدوية -->
 <div align="center">
 
-[![Office Uninstaller Pro](https://github-readme-stats.vercel.app/api/pin/?username=AlaaSayedAhmad&repo=Office-Uninstaller-Pro&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d9ff&text_color=c9d1d9&icon_color=00d9ff&description_lines_count=3)](https://github.com/AlaaSayedAhmad/Office-Uninstaller-Pro)
-
-</div>
-
-<!-- Social Preview Card — يظهر عند مشاركة الرابط -->
-<div align="center">
+[![Office Uninstaller Pro](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=AlaaSayedAhmad&repo=Office-Uninstaller-Pro&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d9ff&text_color=c9d1d9&icon_color=00d9ff)](https://github.com/AlaaSayedAhmad/Office-Uninstaller-Pro)
 
 ```
 ╔══════════════════════════════════════════════════════════╗
 ║   🧹 Office Uninstaller Ultra Pro v5.1                   ║
 ║   ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━   ║
-║   The most complete Microsoft Office removal tool        ║
-║   ever built in PowerShell — beats SaRA & OffScrub      ║
-║   ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━   ║
-║   ✅ WhatIf Mode    ✅ Rollback Engine                   ║
-║   ✅ HTML Report    ✅ Remote Execution                  ║
-║   ✅ Parallel PS7+  ✅ All M365 Products                 ║
-║   ✅ MSI+C2R+Store  ✅ Windows Event Log                 ║
-║   ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━   ║
-║   ⭐ Star if useful  |  🔀 PRs welcome                   ║
+║   Removes every trace of Office/M365 — beats SaRA       ║
+║   ✅ WhatIf  ✅ Rollback  ✅ HTML Report  ✅ Remote      ║
+║   ✅ MSI + C2R + Store   ✅ All M365 Products            ║
 ╚══════════════════════════════════════════════════════════╝
 ```
 
-[![PowerShell](https://img.shields.io/badge/PowerShell-5.1%2B-5391FE?style=flat-square&logo=powershell&logoColor=white)](https://github.com/AlaaSayedAhmad/Office-Uninstaller-Pro)
+[![PowerShell](https://img.shields.io/badge/PowerShell-5.1%2B-5391FE?style=flat-square&logo=powershell)](https://github.com/AlaaSayedAhmad/Office-Uninstaller-Pro)
 [![Version](https://img.shields.io/badge/Version-5.1-brightgreen?style=flat-square)](https://github.com/AlaaSayedAhmad/Office-Uninstaller-Pro)
 [![License](https://img.shields.io/badge/License-MIT-blue?style=flat-square)](https://github.com/AlaaSayedAhmad/Office-Uninstaller-Pro/blob/main/LICENSE)
-[![Windows](https://img.shields.io/badge/Platform-Windows-0078D6?style=flat-square&logo=windows&logoColor=white)](https://github.com/AlaaSayedAhmad/Office-Uninstaller-Pro)
+[![Windows](https://img.shields.io/badge/Platform-Windows-0078D6?style=flat-square&logo=windows)](https://github.com/AlaaSayedAhmad/Office-Uninstaller-Pro)
 
 </div>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 ---
 
 ## 💭 Dev Philosophy
 
 <div align="center">
-
 <table>
 <tr>
 <td align="center" width="50%">
@@ -297,7 +295,6 @@ print(me.greet())
 </td>
 </tr>
 </table>
-
 </div>
 
 ---
@@ -325,31 +322,22 @@ print(me.greet())
 
 <br/>
 
-![Thanks](https://img.shields.io/badge/Thanks%20for%20visiting!-⭐%20Star%20my%20repos%20if%20useful-00d9ff?style=for-the-badge)
-
-> 💬 *Open to collaborations, security research, and open source projects*
->
 > ⭐ *If my work helped you — a star means the world to me!*
 
 </div>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
----
-
 <!-- Snake Animation -->
 <div align="center">
-
 <picture>
   <source media="(prefers-color-scheme: dark)"
           srcset="./github-contribution-grid-snake-dark.svg"/>
   <source media="(prefers-color-scheme: light)"
           srcset="./github-contribution-grid-snake.svg"/>
-  <img alt="🐍 Contribution Snake" width="100%"
+  <img alt="🐍 Snake" width="100%"
        src="./github-contribution-grid-snake-dark.svg"/>
 </picture>
-
 </div>
 
-<!-- Footer Wave -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer"/>
