@@ -136,12 +136,12 @@ print(me.greet())
 | Component | Choice |
 |:---------:|:------:|
 | 🎩 Daily Driver | Fedora Linux (latest) |
-| ⚡ Work OS | Fedora Linux |Windows 11 Pro|
+| ⚡ Work OS | Fedora Linux · Windows 11 Pro |
 | 🐉 Hacking OS | Kali Linux |
 | 💻 Editor | VS Code |
-| 🐟 Shell | ZSH Shell |
+| 🐟 Shell | ZSH |
 | 🖥️ Terminal | Kitty |
-| 🌐 Browser | Firefox |Brave
+| 🌐 Browser | Firefox · Brave |
 
 </div>
 
@@ -158,7 +158,7 @@ print(me.greet())
 | 🌐 Web Dev | HTML · CSS · JS · React · Node.js | `██████░░░░` Intermediate |
 | 🐍 Python | Scripting · Automation · Tool Building | `███████░░░` Advanced |
 | 🔧 DevOps | Git · GitHub Actions · CI/CD · Docker | `██████░░░░` Intermediate |
-| 🎩 Linux | Fedora · Bash · Shell Scripting · DNF | `████████░░` Advanced |
+| 🎩 Linux | Fedora · ZSH · Shell Scripting · DNF | `████████░░` Advanced |
 
 </div>
 
@@ -168,24 +168,19 @@ print(me.greet())
 
 <div align="center">
 
-<!-- ✅ Stats Card — via working alternative instance -->
 <img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=AlaaSayedAhmad&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d9ff&icon_color=00d9ff&text_color=c9d1d9&count_private=true&include_all_commits=true"/>
-
-<!-- ✅ Top Languages — via working alternative instance -->
 <img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=AlaaSayedAhmad&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d9ff&text_color=c9d1d9&langs_count=8&card_width=320"/>
 
 </div>
 
 <div align="center">
 
-<!-- ✅ Streak Stats — خدمة منفصلة تعمل بشكل مستقل -->
 [![GitHub Streak](https://streak-stats.demolab.com?user=AlaaSayedAhmad&theme=tokyonight&hide_border=true&background=0d1117&ring=00d9ff&fire=ff6b6b&currStreakLabel=00d9ff&sideLabels=00d9ff&dates=6c7086)](https://git.io/streak-stats)
 
 </div>
 
 <div align="center">
 
-<!-- ✅ Activity Graph — خدمة منفصلة تعمل -->
 [![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=AlaaSayedAhmad&theme=tokyo-night&bg_color=0d1117&color=00d9ff&line=00d9ff&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 </div>
@@ -198,7 +193,6 @@ print(me.greet())
 
 <div align="center">
 
-<!-- ✅ Trophy — working fork بدلاً من الأصلي المعطل -->
 [![trophy](https://github-profile-trophy.screw-hand.vercel.app/?username=AlaaSayedAhmad&theme=darkhub&no-frame=true&row=1&column=7&margin-w=8&title=Stars,Followers,Commits,Repositories,PullRequest,Issues)](https://github.com/AlaaSayedAhmad)
 
 </div>
@@ -328,16 +322,28 @@ print(me.greet())
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-<!-- Snake Animation -->
+---
+
+<!-- ✅ Snake Animation — من branch output الحقيقي بعد نجاح الـ workflow -->
 <div align="center">
+
 <picture>
-  <source media="(prefers-color-scheme: dark)"
-          srcset="./github-contribution-grid-snake-dark.svg"/>
-  <source media="(prefers-color-scheme: light)"
-          srcset="./github-contribution-grid-snake.svg"/>
-  <img alt="🐍 Snake" width="100%"
-       src="./github-contribution-grid-snake-dark.svg"/>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/AlaaSayedAhmad/AlaaSayedAhmad/output/github-contribution-grid-snake-dark.svg"
+  />
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/AlaaSayedAhmad/AlaaSayedAhmad/output/github-contribution-grid-snake.svg"
+  />
+  <img
+    alt="🐍 Contribution Snake"
+    width="100%"
+    src="https://raw.githubusercontent.com/AlaaSayedAhmad/AlaaSayedAhmad/output/github-contribution-grid-snake-dark.svg"
+  />
 </picture>
+
 </div>
 
+<!-- Footer Wave -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer"/>
