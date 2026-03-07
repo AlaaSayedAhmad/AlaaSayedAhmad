@@ -148,8 +148,8 @@ motto = "🚀 Always building. Always learning. Never stopping."
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=AlaaSayedAhmad&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d9ff&icon_color=00d9ff&text_color=c9d1d9&count_private=true&include_all_commits=true"/>
-<img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=AlaaSayedAhmad&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d9ff&text_color=c9d1d9&langs_count=8&card_width=320"/>
+<img height="180em" src="https://github-readme-stats-lac-eight-98.vercel.app/api?username=AlaaSayedAhmad&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d9ff&icon_color=00d9ff&text_color=c9d1d9&count_private=true&include_all_commits=true"/>
+<img height="180em" src="https://github-readme-stats-lac-eight-98.vercel.app/api/top-langs/?username=AlaaSayedAhmad&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d9ff&text_color=c9d1d9&langs_count=8&card_width=320"/>
 
 </div>
 
@@ -210,7 +210,7 @@ motto = "🚀 Always building. Always learning. Never stopping."
 
 <div align="center">
 
-[![Office Uninstaller Pro](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=AlaaSayedAhmad&repo=Office-Uninstaller-Pro&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d9ff&text_color=c9d1d9&icon_color=00d9ff)](https://github.com/AlaaSayedAhmad/Office-Uninstaller-Pro)
+[![Office Uninstaller Pro](https://github-readme-stats-lac-eight-98.vercel.app/api/pin/?username=AlaaSayedAhmad&repo=Office-Uninstaller-Pro&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d9ff&text_color=c9d1d9&icon_color=00d9ff)](https://github.com/AlaaSayedAhmad/Office-Uninstaller-Pro)
 
 ```
 ╔══════════════════════════════════════════════════════════╗
