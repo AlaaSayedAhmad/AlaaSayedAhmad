@@ -205,14 +205,13 @@ motto = "🚀 Always building. Always learning. Never stopping."
 </div>
 
 ---
-
 ## 🚀 Featured Projects
 
 <div align="center">
 
 | | |
 |:---:|:---|
-| [![Office Uninstaller Pro](https://github-readme-stats-lac-eight-98.vercel.app/api/pin/?username=AlaaSayedAhmad&repo=Office-Uninstaller-Pro&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d9ff&text_color=c9d1d9&icon_color=00d9ff)](https://github.com/AlaaSayedAhmad/Office-Uninstaller-Pro) | **🧹 Office Uninstaller Pro**<br/><br/>Removes every trace of Microsoft Office from Windows — faster and deeper than Microsoft's own SaRA tool.<br/><br/>![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=flat-square&logo=powershell&logoColor=white) ![Windows](https://img.shields.io/badge/Windows-0078D6?style=flat-square&logo=windows&logoColor=white) ![Version](https://img.shields.io/badge/v3.0-brightgreen?style=flat-square) ![MIT](https://img.shields.io/badge/MIT-a6e3a1?style=flat-square)<br/><br/>✅ MSI · C2R · M365 · Store · Office 2007→2024 |
+| [![Office Uninstaller Pro](https://github-readme-stats-lac-eight-98.vercel.app/api/pin/?username=AlaaSayedAhmad&repo=Office-Uninstaller-Pro&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d9ff&text_color=c9d1d9&icon_color=00d9ff)](https://github.com/AlaaSayedAhmad/Office-Uninstaller-Pro) | **🧹 Office Uninstaller Pro**<br/><br/>Removes every trace of Microsoft Office from Windows — faster and deeper than Microsoft's own SaRA tool.<br/><br/>![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=flat-square&logo=powershell&logoColor=white) ![Windows](https://img.shields.io/badge/Windows-0078D6?style=flat-square&logo=windows&logoColor=white) ![Version](https://img.shields.io/badge/v3.0-brightgreen?style=flat-square) ![MIT](https://img.shields.io/badge/MIT-a6e3a1?style=flat-square)<br/><br/>✅ MSI · C2R · M365 · Store · Office 2007 → 2024 |
 
 </div>
 
