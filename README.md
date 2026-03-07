@@ -212,22 +212,7 @@ motto = "🚀 Always building. Always learning. Never stopping."
 
 [![Office Uninstaller Pro](https://github-readme-stats-lac-eight-98.vercel.app/api/pin/?username=AlaaSayedAhmad&repo=Office-Uninstaller-Pro&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d9ff&text_color=c9d1d9&icon_color=00d9ff)](https://github.com/AlaaSayedAhmad/Office-Uninstaller-Pro)
 
-```
-╔══════════════════════════════════════════════════════════╗
-║   🧹 Office Uninstaller Ultra Pro v5.1                   ║
-║   ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━   ║
-║   Removes every trace of Office/M365 — beats SaRA       ║
-║   ✅ WhatIf  ✅ Rollback  ✅ HTML Report  ✅ Remote      ║
-║   ✅ MSI + C2R + Store   ✅ All M365 Products            ║
-╚══════════════════════════════════════════════════════════╝
-```
 
-[![PowerShell](https://img.shields.io/badge/PowerShell-5.1%2B-5391FE?style=flat-square&logo=powershell)](https://github.com/AlaaSayedAhmad/Office-Uninstaller-Pro)
-[![Version](https://img.shields.io/badge/Version-5.1-brightgreen?style=flat-square)](https://github.com/AlaaSayedAhmad/Office-Uninstaller-Pro)
-[![License](https://img.shields.io/badge/License-MIT-blue?style=flat-square)](https://github.com/AlaaSayedAhmad/Office-Uninstaller-Pro/blob/main/LICENSE)
-[![Windows](https://img.shields.io/badge/Platform-Windows-0078D6?style=flat-square&logo=windows)](https://github.com/AlaaSayedAhmad/Office-Uninstaller-Pro)
-
-</div>
 
 ---
 
