@@ -212,22 +212,23 @@ motto = "🚀 Always building. Always learning. Never stopping."
 
 [![Office Uninstaller Pro](https://github-readme-stats-lac-eight-98.vercel.app/api/pin/?username=AlaaSayedAhmad&repo=Office-Uninstaller-Pro&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d9ff&text_color=c9d1d9&icon_color=00d9ff)](https://github.com/AlaaSayedAhmad/Office-Uninstaller-Pro)
 
-```
-╔══════════════════════════════════════════════════════════╗
-║   🧹 Office Uninstaller Pro v3.0                         ║
-║   ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━   ║
-║   Removes every trace of Office/M365 — beats SaRA       ║
-║   ✅ All Modes  ✅ Log File  ✅ Residual Check           ║
-║   ✅ MSI + C2R + Store   ✅ Office 2007 → 2024           ║
-╚══════════════════════════════════════════════════════════╝
-```
+<br/>
 
-[![PowerShell](https://img.shields.io/badge/PowerShell-5.1%2B-5391FE?style=flat-square&logo=powershell)](https://github.com/AlaaSayedAhmad/Office-Uninstaller-Pro)
-[![Version](https://img.shields.io/badge/Version-3.0-brightgreen?style=flat-square)](https://github.com/AlaaSayedAhmad/Office-Uninstaller-Pro)
-[![License](https://img.shields.io/badge/License-MIT-blue?style=flat-square)](https://github.com/AlaaSayedAhmad/Office-Uninstaller-Pro/blob/main/LICENSE)
-[![Windows](https://img.shields.io/badge/Platform-Windows-0078D6?style=flat-square&logo=windows)](https://github.com/AlaaSayedAhmad/Office-Uninstaller-Pro)
+![](https://img.shields.io/badge/🧹_Removes-Every_Trace_of_Office-00d9ff?style=for-the-badge&labelColor=0d1117)
+![](https://img.shields.io/badge/Beats-Microsoft_SaRA-ff6b6b?style=for-the-badge&labelColor=0d1117)
+
+![](https://img.shields.io/badge/✅_MSI-Support-238636?style=for-the-badge&labelColor=0d1117)
+![](https://img.shields.io/badge/✅_Click--to--Run-Support-238636?style=for-the-badge&labelColor=0d1117)
+![](https://img.shields.io/badge/✅_M365-Support-238636?style=for-the-badge&labelColor=0d1117)
+![](https://img.shields.io/badge/✅_Office_2007→2024-All_Versions-238636?style=for-the-badge&labelColor=0d1117)
+
+![](https://img.shields.io/badge/PowerShell-5.1+-5391FE?style=for-the-badge&logo=powershell&logoColor=white)
+![](https://img.shields.io/badge/Platform-Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
+![](https://img.shields.io/badge/Version-3.0-ffd700?style=for-the-badge)
+![](https://img.shields.io/badge/License-MIT-a6e3a1?style=for-the-badge)
 
 </div>
+
 
 ---
 
