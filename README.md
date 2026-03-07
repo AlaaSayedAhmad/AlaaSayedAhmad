@@ -212,13 +212,7 @@ print(me.greet())
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-## ⏱️ This Week I Coded
 
-<div align="center">
-
-[![WakaTime](https://wakatime.com/badge/user/AlaaSayedAhmad.svg?style=for-the-badge&labelColor=0d1117&color=00d9ff)](https://wakatime.com/@AlaaSayedAhmad)
-
-</div>
 
 
 ## ⏱️ This Week I Coded
